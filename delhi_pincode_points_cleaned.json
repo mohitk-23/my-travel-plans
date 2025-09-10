@@ -1,0 +1,1214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.21872,
+          28.623449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.246005,
+          28.632898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.225789,
+          28.591083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.189819,
+          28.652409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.229671,
+          28.657239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.201992,
+          28.677714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.166678,
+          28.654238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1918,
+          28.718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.130783,
+          28.589627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.15933,
+          28.632091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.257982,
+          28.590951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.259857,
+          28.581184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.145269,
+          28.656773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.195062,
+          28.548039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.215146,
+          28.533013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.086826,
+          28.642622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.25766,
+          28.534867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.276482,
+          28.535613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.17986,
+          28.590853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.175774,
+          28.565012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.199657,
+          28.57519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.240071,
+          28.570305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.286884,
+          28.560828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.131855,
+          28.667955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.116853,
+          28.64898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.138532,
+          28.630905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.200636,
+          28.565039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.162718,
+          28.499581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.266705,
+          28.657415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.291414,
+          28.673998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.189157,
+          28.714525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.12865,
+          28.69815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.157294,
+          28.681074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.162662,
+          28.820016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.109,
+          28.547598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.114451,
+          28.510206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.024057,
+          28.799983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1182,
+          28.8352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.020356,
+          28.670451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.132107,
+          28.751087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.969014,
+          28.591679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.297864,
+          28.505468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.086114,
+          28.598253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.102217,
+          28.606028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.137024,
+          28.462107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.238422,
+          28.543142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.220416,
+          28.559513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.283977,
+          28.654522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.17489,
+          28.687547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.253937,
+          28.687655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.223214,
+          28.689511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.211019,
+          28.645898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.114553,
+          28.681698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.158027,
+          28.560128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.087891,
+          28.622771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.050116,
+          28.624356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.182685,
+          28.629053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06289,
+          28.531894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.240299,
+          28.519278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.105738,
+          28.669415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.113034,
+          28.625688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.256725,
+          28.564825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.183483,
+          28.568677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.169,
+          28.540922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.206414,
+          28.491963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.150301,
+          28.522272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.002185,
+          28.552208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.951831,
+          28.645295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.897833,
+          28.562496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.197575,
+          28.448503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.051461,
+          28.582773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.308974,
+          28.528526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110077"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0503,
+          28.557106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.030679,
+          28.599197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.23476,
+          28.496101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.998993,
+          28.736015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10733,
+          28.788836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.088947,
+          28.691334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.20566,
+          28.753659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10605,
+          28.71701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.060691,
+          28.702362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.085454,
+          28.669301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.156604,
+          28.714507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.128164,
+          28.735657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.251032,
+          28.735705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.294335,
+          28.603689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.287308,
+          28.632279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.30772,
+          28.69912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.284965,
+          28.704755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.315573,
+          28.678312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.323914,
+          28.611999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.088403,
+          28.527539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pincode": "110099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.064718,
+          28.735411
+        ]
+      }
+    }
+  ]
+}
